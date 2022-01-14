@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Simply-Justin&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Simply-Justin&data=followers,repositories,stars,commits)](https://github.com/Simply-Justin/github-widgetbox)
 
 <!--
 **Simply-Justin/Simply-Justin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
